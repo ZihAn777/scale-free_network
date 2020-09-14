@@ -1,0 +1,8 @@
+[
+		{"source":"alice", "target":"bob"},
+		{"source":"chen", "target":"bob"},
+		{"source":"dawg", "target":"chen"},
+		{"source":"hanes", "target":"frank"},
+		{"source":"hanes", "target":"george"},
+		{"source":"dawg", "target":"ethan"},
+]
