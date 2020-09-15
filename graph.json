@@ -1,5 +1,5 @@
 {
-	nodes:[
+	"nodes":[
 		{"name":"alice"},
 		{"name":"bob"},
 		{"name":"chen"},
@@ -9,7 +9,7 @@
 		{"name":"frank"},
 		{"name":"hanes"},
 	],
-	links:[
+	"links":[
 		{"source":"alice", "target":"bob"},
 		{"source":"chen", "target":"bob"},
 		{"source":"dawg", "target":"chen"},
