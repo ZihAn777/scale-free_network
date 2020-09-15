@@ -1,0 +1,20 @@
+{
+	nodes:[
+		{"name":"alice"},
+		{"name":"bob"},
+		{"name":"chen"},
+		{"name":"dawg"},
+		{"name":"ethan"},
+		{"name":"george"},
+		{"name":"frank"},
+		{"name":"hanes"},
+	],
+	links:[
+		{"source":"alice", "target":"bob"},
+		{"source":"chen", "target":"bob"},
+		{"source":"dawg", "target":"chen"},
+		{"source":"hanes", "target":"frank"},
+		{"source":"hanes", "target":"george"},
+		{"source":"dawg", "target":"ethan"},
+	]
+}
