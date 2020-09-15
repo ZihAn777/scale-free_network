@@ -1,1 +1,10 @@
-[{"name":"alice"},{"name":"bob"},{"name":"chen"},{"name":"dawg"},{"name":"ethan"},{"name":"george"},{"name":"frank"},{"name":"hanes"}]
+[
+  {"name":"alice"},
+  {"name":"bob"},
+  {"name":"chen"},
+  {"name":"dawg"},
+  {"name":"ethan"},
+  {"name":"george"},
+  {"name":"frank"},
+  {"name":"hanes"}
+]
