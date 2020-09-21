@@ -3,7 +3,7 @@ var svg2 = d3.select("#org_graph");
 var width2 = svg2.attr("width");
 var height2 = svg2.attr("height");
 
-var url_or = "https://raw.githubusercontent.com/ZihAn777/scale-free_network/master/edges.json";
+var url_or = "https://raw.githubusercontent.com/zih-an/scale-free_network/master/edges.json";
 
 
 var g_links2 = JSON.parse(Get(url_or));
