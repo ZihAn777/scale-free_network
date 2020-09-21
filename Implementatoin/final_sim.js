@@ -3,8 +3,8 @@ var svg1 = d3.select("#sim_graph");
 var width1 = svg1.attr("width");
 var height1 = svg1.attr("height");
 
-var url_link = "https://raw.githubusercontent.com/ZihAn777/scale-free_network/master/fb_newLink.json";
-var url_node = "https://raw.githubusercontent.com/ZihAn777/scale-free_network/master/nodes.json";
+var url_link = "https://raw.githubusercontent.com/zih-an/scale-free_network/master/fb_newLink.json";
+var url_node = "https://raw.githubusercontent.com/zih-an/scale-free_network/master/nodes.json";
 
 function Get(yourUrl){
     var Httpreq = new XMLHttpRequest(); // a new request
