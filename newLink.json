@@ -1,4 +1,5 @@
-[
+{
+"links": [
 { "target":0, "source": 66 },
 { "target":1, "source": 3 },
 { "target":2, "source": 40 },
@@ -164,3 +165,4 @@
 { "target":150, "source": 161 },
 { "target":151, "source": 164 }
 ]
+}
